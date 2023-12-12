@@ -18,9 +18,9 @@ With a foundation in data science, I have delved into the realms of Python, SQL,
 So far, I have worked on projects using tools like `Python` and `Scikit-Learn`, and I have explored data analysis with `Tableau` and `PowerBI`. While I am aware that my knowledge is still in development, I am excited about the prospect of delving deeper.
 
 ## 🚀 Main Projects:
-1. Project One: [https://github.com/ASGuzman/PI_MLOps_Steam]
-2. Project Two: [https://github.com/ASGuzman/ProyectoIntegradorM6]
-3. Project Three: [https://github.com/ASGuzman/PI2_Siniestros_Viales]
+1. Project One: https://github.com/ASGuzman/PI_MLOps_Steam
+2. Project Two: https://github.com/ASGuzman/ProyectoIntegradorM6
+3. Project Three: https://github.com/ASGuzman/PI2_Siniestros_Viales
 
 I am excited to continue exploring and learning on this thrilling technological journey! Let's connect to share knowledge and explore new possibilities. 🌟
 
