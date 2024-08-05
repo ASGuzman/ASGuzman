@@ -10,12 +10,15 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30">](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="30" height="30">](https://scikit-learn.org/)
 [<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="30" height="30">](https://seaborn.pydata.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30" height="30">](https://fastapi.tiangolo.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30">](https://www.docker.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="30" height="30">](https://cloud.google.com/)
 
 ## 👩‍💻 My Focus:
-With a foundation in data science, I have delved into the realms of Python, SQL, and related technologies. My fascination with artificial intelligence has led me to experiment with libraries like `scikit-learn` initially but with great enthusiasm to explore other technologies.
+With a foundation in data science, I have expanded my skills to include backend development with FastAPI. My expertise spans Python, SQL, Docker, Google Cloud, and various data science technologies. I'm also passionate about exploring artificial intelligence and backend development.
 
 ## 🌐 Current Skills:
-So far, I have worked on projects using tools like `Python` and `Scikit-Learn`, and I have explored data analysis with `Tableau` and `PowerBI`. While I am aware that my knowledge is still in development, I am excited about the prospect of delving deeper.
+I have worked on projects using tools like `Python`, `Scikit-Learn`, `FastAPI`, `Docker`, and `Google Cloud`, and have explored data analysis with `Tableau` and `PowerBI`. I am enthusiastic about continually developing my knowledge and skills.
 
 ## 🚀 Main Projects:
 1. Project One: https://github.com/ASGuzman/PI_MLOps_Steam
@@ -25,6 +28,3 @@ So far, I have worked on projects using tools like `Python` and `Scikit-Learn`, 
 I am excited to continue exploring and learning on this thrilling technological journey! Let's connect to share knowledge and explore new possibilities. 🌟
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=asguzman&show_icons=true&locale=en)
-
-
-
